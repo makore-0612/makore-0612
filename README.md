@@ -8,7 +8,7 @@ Passionate about technology and data management; love uncovering information tha
 
 ### 🎓 Studies
 
-I'm currently studying a Bachelor of Science in Data Science at <img src="https://www.iimas.unam.mx/wp-content/uploads/2023/11/Logo-pagina-ok.png" width="50"/> IIMAS - UNAM. I also studied applied mathematics during a certain period, so I also have knowledge of multivariable calculus, linear algebra, and operations research 🧮
+I'm currently studying a Bachelor of Science in Data Science at <img src="https://mmss.iimas.unam.mx/dmmss/wp-content/uploads/2026/02/cropped-LogoUNAM_IIMAS_Negro50-scaled-2.png" width="50"/> IIMAS - UNAM. I also studied applied mathematics during a certain period, so I also have knowledge of multivariable calculus, linear algebra, and operations research 🧮
 
 ---
 
@@ -20,3 +20,7 @@ Throughout my academic career I've had the opportunity to work and experiment wi
 * **Tools**: Microsoft Excel, Palantir Foundry, Git, Jira, Altair AI Studio *(and a few more)*
 
 As part of my training as a data scientist, I have also developed some expertise in KPI analysis and machine learning 🤖
+
+---
+
+[![Portafolio](assets/port.png)](https://makore-0612.github.io/zam_portfolio/)
