@@ -8,7 +8,7 @@ Passionate about technology and data management; love uncovering information tha
 
 ### 🎓 Studies
 
-I'm currently studying a Bachelor of Science in Data Science at <img src="https://mmss.iimas.unam.mx/dmmss/wp-content/uploads/2026/02/cropped-LogoUNAM_IIMAS_Negro50-scaled-2.png" width="50"/> IIMAS - UNAM. I also studied applied mathematics during a certain period, so I also have knowledge of multivariable calculus, linear algebra, and operations research 🧮
+I'm currently studying a Bachelor of Science in Data Science at <img src="https://mmss.iimas.unam.mx/dmmss/wp-content/uploads/2026/02/cropped-LogoUNAM_IIMAS_Negro50-scaled-2.png" width="40"/> IIMAS - UNAM. I also studied applied mathematics during a certain period, so I also have knowledge of multivariable calculus, linear algebra, and operations research 🧮
 
 ---
 
