@@ -18,13 +18,12 @@ I'm currently studying a Bachelor of Science in Data Science at <img src="https:
 
 Throughout my academic career I've had the opportunity to work and experiment with a wide variety of tools:
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=3776AB)
-![PostgreSQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MongoDB](https://img.shields.io/badge/mongodb-%2313AA52.svg?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/mysql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Cassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apachecassandra&logoColor=1287B1)
-![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=2496ED)
-![PowerBI](https://img.shields.io/badge/powerbi-%23F2CC8F.svg?style=for-the-badge&logo=powerbi&logoColor=ff6d00)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=1b2750)
+![PostgreSQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=1b2750)
+![MongoDB](https://img.shields.io/badge/mongodb-%2313AA52.svg?style=for-the-badge&logo=mongodb&logoColor=1b2750)
+![MySQL](https://img.shields.io/badge/mysql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=1b2750)
+![Cassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apachecassandra&logoColor=1b2750)
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=1b2750)
 
 As part of my training as a data scientist, I have also developed some expertise in KPI analysis and machine learning 🤖
 
